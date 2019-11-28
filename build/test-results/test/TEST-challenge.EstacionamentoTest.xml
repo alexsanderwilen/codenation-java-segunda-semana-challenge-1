@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="challenge.EstacionamentoTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2019-10-25T20:50:29" hostname="MacBook-Pro-de-Alexsander.local" time="0.041">
+  <properties/>
+  <testcase name="naoDeveTerCarroAutonomo" classname="challenge.EstacionamentoTest" time="0.004"/>
+  <testcase name="casoTodosSejamSeniorONovoMotoristaNaoTeraVaga" classname="challenge.EstacionamentoTest" time="0.012"/>
+  <testcase name="deveRetornarErroQuandoNaoTemCor" classname="challenge.EstacionamentoTest" time="0.0"/>
+  <testcase name="casoPrimeiroMotoristaSejaSeniorEleNaoDeveSair" classname="challenge.EstacionamentoTest" time="0.006"/>
+  <testcase name="naoDeveEstacionarMotoristaSemPontos" classname="challenge.EstacionamentoTest" time="0.001"/>
+  <testcase name="deveRetorarErroQuandoPontosNegativos" classname="challenge.EstacionamentoTest" time="0.0"/>
+  <testcase name="deveEstacionar" classname="challenge.EstacionamentoTest" time="0.001"/>
+  <testcase name="deveRetorarErroQuandoIdadeNegativa" classname="challenge.EstacionamentoTest" time="0.0"/>
+  <testcase name="naoDeveTerMotoristaDeMenor" classname="challenge.EstacionamentoTest" time="0.002"/>
+  <testcase name="deveRetornarErroQuandoMotoristaNaoTemNome" classname="challenge.EstacionamentoTest" time="0.001"/>
+  <testcase name="deveRetornarErroQuandoMotoristaNaoTemHabilitacao" classname="challenge.EstacionamentoTest" time="0.001"/>
+  <testcase name="naoDeveUltrapassarEstacionamento" classname="challenge.EstacionamentoTest" time="0.002"/>
+  <testcase name="deveRetornarErroQuandoNaoTemPlaca" classname="challenge.EstacionamentoTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
